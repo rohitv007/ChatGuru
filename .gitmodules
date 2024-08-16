@@ -1,0 +1,6 @@
+[submodule "chatguru-client"]
+	path = chatguru-client
+	url = https://github.com/rohitv007/chatguru-client.git
+[submodule "chatguru-server"]
+	path = chatguru-server
+	url = https://github.com/rohitv007/chatguru-server.git
