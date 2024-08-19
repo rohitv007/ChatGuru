@@ -8,6 +8,7 @@ ChatGuru is a real-time chat application that supports messaging between users.
 - User authentication
 - Real-time messaging
 - User status updates
+- File Sharing and Notifications (soon to be added)
 
 ## Technologies
 
@@ -25,6 +26,7 @@ ChatGuru is a real-time chat application that supports messaging between users.
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/rohitv007/ChatGuru.git
    ```
@@ -41,18 +43,20 @@ ChatGuru is a real-time chat application that supports messaging between users.
 ### Running the Application
 
 1. Start the frontend:
+
    ```bash
    cd chatguru-client
    npm start
    ```
 
 2. Start the backend:
+
    ```bash
-   cd ../chatguru-server
+   cd chatguru-server
    npm start
    ```
 
-3. Access the application at `http://localhost:3000`.
+3. Access the application at `http://localhost:5173`.
 
 ## License
 
